@@ -23,7 +23,8 @@ Dla każdego psa można zobaczyć szczegółowe informacje, takie jak nazwa, ras
 
 ![Ekran danego psa](https://github.com/user-attachments/assets/c0dc1cf3-a07c-404d-a79a-a337d72f9873)
 
-##Ekran zarejestrowanych użytkowników (Opiekunów/Włascicieli Psów).
+## Ekran zarejestrowanych właścicieli/opiekunów psów
+
 Online
 ![image](https://github.com/user-attachments/assets/b5b03f2c-8ef2-4c95-8761-203d40703a90)
 Offline
